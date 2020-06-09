@@ -1,1 +1,7 @@
-This is hello.
+Commands we have done:
+1.git init
+2.git status
+3.git add filename.ext  (ext=extension like txt or doc)
+4.git commit -m "Your commit message here"
+5.git log
+6.git restore filename.ext
